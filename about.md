@@ -36,7 +36,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 <h2>Education</h2>
 <ul class="skill-list">
 	<li>MS in Physics, National Taiwan University (NTU)</li>
-	<li>BS in Interdisciplinary Sciences (Physics, Materials Engineering, Computer Science), Nationa Tsing Hua University (NTHU)</li>
+	<li>BS in Interdisciplinary Sciences (Physics, Materials Engineering, Computer Science), National Tsing Hua University (NTHU)</li>
 </ul>
 
 <h2>Skills</h2>
