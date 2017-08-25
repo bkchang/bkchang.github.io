@@ -45,7 +45,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 	<ul>First-Principles Computation, Machine Learning, Deep Learning</ul>
 
 	<h4>Language</h4>
-	<ul>Python, C/C++, Shell Script, Matlab, HTML5/CSS, JavaScript, PHP, SQL</ul>
+	<ul>Python, C/C++, Shell Script, Matlab, LabVIEW, HTML5/CSS, JavaScript, PHP, SQL</ul>
 
 	<h4>Software for Machine Learning</h4>
 	<ul>Tensorflow</ul>
