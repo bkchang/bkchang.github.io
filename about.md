@@ -35,7 +35,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 	<ul>Python, C/C++, Shell Script, Matlab, LabVIEW, HTML5/CSS, JavaScript, PHP, SQL</ul>
 
 	<h4>Software for Machine Learning</h4>
-	<ul>Tensorflow</ul>
+	<ul>Tensorflow, Scikit-learn</ul>
 
 	<h4>Software for First-Principles Computation</h4>
 	<ul> VASP, Quantum Espresso, BandUP, BoltzTraP, Phonopy</ul>
