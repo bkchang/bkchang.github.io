@@ -22,7 +22,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 
 <h2>Education</h2>
 <ul class="skill-list">
-	<li>MS in Physics, National Taiwan University (NTU). <br> Advisor: Mei-Yin Chou <br> Thesis: <a href="https://doi.org/10.6342/NTU201701378">First-Principles Studies of Cubic Sb-Doped GeTe Compounds for Thermoelectric Applications</a></li>
+	<li>MS in Physics, National Taiwan University (NTU) <br> Advisor: Mei-Yin Chou <br> Thesis: <a href="https://doi.org/10.6342/NTU201701378">First-Principles Studies of Cubic Sb-Doped GeTe Compounds for Thermoelectric Applications</a></li>
 	<li>BS in Interdisciplinary Sciences (Physics, Materials Engineering, Computer Science), National Tsing Hua University (NTHU)</li>
 </ul>
 
