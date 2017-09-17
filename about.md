@@ -40,3 +40,11 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 	<h4>Software for First-Principles Computation</h4>
 	<ul> VASP, Quantum Espresso, BandUP, BoltzTraP, Phonopy</ul>
 </ul>
+
+<h2>Skills</h2>
+<ul class="skill-list">
+	<li>08/2017 Dean’s Award, College of Science, NTU </li>
+	<li>06/2016 Phi Tau Phi Honorary Membership, NTHU Branch, Phi Tau Phi Scholastic Honor Society of the Republic of China</li>
+	<li>04/2015 College of Science Elite Student Award, College of Science, NTHU</li>
+	<li>11/2013 Chun-Tsung Scholar, Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment</li>
+</ul>
