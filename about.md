@@ -41,7 +41,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 	<ul> VASP, Quantum Espresso, BandUP, BoltzTraP, Phonopy</ul>
 </ul>
 
-<h2>Skills</h2>
+<h2>Selected Honors & Awards</h2>
 <ul class="skill-list">
 	<li>08/2017 Dean’s Award, College of Science, NTU </li>
 	<li>06/2016 Phi Tau Phi Honorary Membership, NTHU Branch, Phi Tau Phi Scholastic Honor Society of the Republic of China</li>
