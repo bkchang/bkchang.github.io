@@ -48,7 +48,7 @@ Research Assistant, Institute of Atomic and Molecular Sciences (IAMS), Academia 
 </li>
 </ul>
 
-<h2>For Publications and Honors/Awards, please refer to CV</h2>
+<h2>For Honors/Awards and other information, please refer to CV</h2>
 <!--
 <h2>Selected Honors & Awards</h2>
 <ul class="skill-list">
