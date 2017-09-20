@@ -15,9 +15,9 @@ Research Assistant, <a href="https://www.iams.sinica.edu.tw/project/mychou">Quan
 <ul class="skill-list">
 	<li><a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a>, Prof. Mei-Yin Chou, IAMS, Academia Sinica</li>
 	<li><a href="http://mml.citi.sinica.edu.tw/">Multimedia and Machine Learning Lab</a>, Prof. Yu-Chiang Frank Wang, EE, NTU (CITI, Academia Sinica)</li>
-	<li><a href="https://www.csie.ntu.edu.tw/~sdlin/">Machine Discovery and Social Network Mining Lab</a>, Prof. Shou-De Lin, CSIE, NTU</li>-->
+	<li><a href="https://www.csie.ntu.edu.tw/~sdlin/">Machine Discovery and Social Network Mining Lab</a>, Prof. Shou-De Lin, CSIE, NTU</li>
 </ul>
-
+-->
 
 
 <h2>Education</h2>
