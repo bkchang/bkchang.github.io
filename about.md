@@ -8,7 +8,7 @@ layout: page
 
 <h2>Current Postion</h2>
 <ul>
-Research Assistant, <a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a> (Prof. Mei-Yin Chou),<br> Institute of Atomic and Molecular Sciences (IAMS), Academia Sinica, Taiwan
+<li>Research Assistant, <a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a> (Prof. Mei-Yin Chou),<br> Institute of Atomic and Molecular Sciences (IAMS), Academia Sinica, Taiwan</li>
 </ul>
 <!-- -->
 <h2>Current Affiliation</h2>
