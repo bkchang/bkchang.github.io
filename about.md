@@ -40,18 +40,3 @@ layout: page
 </ul>
 
 <h2>For Honors/Awards and other information, please refer to CV</h2>
-<!--
-<h2>Selected Honors & Awards</h2>
-<ul class="skill-list">
-	<li>08/2017 Dean’s Award, College of Science, NTU </li>
-	<li>06/2016 Phi Tau Phi Honorary Membership, Phi Tau Phi Scholastic Honor Society of the Republic of China</li>
-	<li>04/2015 College of Science Elite Student Award, College of Science, NTHU</li>
-	<li>11/2013 Chun-Tsung Scholar, Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment</li>
-</ul>
-<h2>Current Affiliation</h2>
-<ul class="skill-list">
-	<li><a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a>, Prof. Mei-Yin Chou, IAMS, Academia Sinica</li>
-	<li><a href="http://mml.citi.sinica.edu.tw/">Multimedia and Machine Learning Lab</a>, Prof. Yu-Chiang Frank Wang, EE, NTU (CITI, Academia Sinica)</li>
-	<li><a href="https://www.csie.ntu.edu.tw/~sdlin/">Machine Discovery and Social Network Mining Lab</a>, Prof. Shou-De Lin, CSIE, NTU</li>
-</ul>
--->
