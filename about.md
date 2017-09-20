@@ -10,15 +10,6 @@ layout: page
 <ul>
 <li>Research Assistant, <a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a> (Prof. Mei-Yin Chou),<br> Institute of Atomic and Molecular Sciences (IAMS), Academia Sinica, Taiwan</li>
 </ul>
-<!-- -->
-<h2>Current Affiliation</h2>
-<ul class="skill-list">
-	<li><a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a>, Prof. Mei-Yin Chou, IAMS, Academia Sinica</li>
-	<li><a href="http://mml.citi.sinica.edu.tw/">Multimedia and Machine Learning Lab</a>, Prof. Yu-Chiang Frank Wang, EE, NTU (CITI, Academia Sinica)</li>
-	<li><a href="https://www.csie.ntu.edu.tw/~sdlin/">Machine Discovery and Social Network Mining Lab</a>, Prof. Shou-De Lin, CSIE, NTU</li>
-</ul>
-
-
 
 <h2>Education</h2>
 <ul class="skill-list">
@@ -56,5 +47,11 @@ layout: page
 	<li>06/2016 Phi Tau Phi Honorary Membership, Phi Tau Phi Scholastic Honor Society of the Republic of China</li>
 	<li>04/2015 College of Science Elite Student Award, College of Science, NTHU</li>
 	<li>11/2013 Chun-Tsung Scholar, Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment</li>
+</ul>
+<h2>Current Affiliation</h2>
+<ul class="skill-list">
+	<li><a href="https://www.iams.sinica.edu.tw/project/mychou">Quantum Theory of Advanced Materials Lab</a>, Prof. Mei-Yin Chou, IAMS, Academia Sinica</li>
+	<li><a href="http://mml.citi.sinica.edu.tw/">Multimedia and Machine Learning Lab</a>, Prof. Yu-Chiang Frank Wang, EE, NTU (CITI, Academia Sinica)</li>
+	<li><a href="https://www.csie.ntu.edu.tw/~sdlin/">Machine Discovery and Social Network Mining Lab</a>, Prof. Shou-De Lin, CSIE, NTU</li>
 </ul>
 -->
