@@ -6,7 +6,7 @@ layout: page
 
 <h1>Benjamin K Chang</h1>
 
-My interests lie in computational studies of physical mechanisms in nano-scale.
+<ul>My interests lie in computational studies of physical mechanisms in nano-scale.</ul>
 
 <h2>Current Postion</h2>
 <ul>
