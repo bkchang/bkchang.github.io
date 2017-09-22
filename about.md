@@ -37,7 +37,7 @@ layout: page
 <h2>Publications</h2>
 <ul class="skill-list">
 	<li>Deniz P. Wong, Masoud Aminzare, Chin-Sheng Pang, <u>Benjamin K. Chang</u>, Hsiang-Ting Lien, Sun-Tang Chang, Chia-Hua Chien, Yang-Yuan Chen, Ming-Wen Chu, Yaw-Wen Yang, Wen-Pin Hsieh, Gerda Rogl, Peter Rogl, Mei-Yin Chou, Li-Chyong Chen, and Kuei-Hsien Chen. <b>Boosting zT above 2.5: Temperature-Induced Valence Band Convergence in GeTe-rich Ge-Sb-Te Thin Film.</b> Under review by <i>Nature Communications.</i></li>
-	<li><u>Benjamin K. Chang</u> and Mei-Yin Chou, <b>First-Principles Studies of Cubic Sb-Doped GeTe for Thermoelectric Applications.</b> Waiting for submission after the first paper is published.
+	<li><u>Benjamin K. Chang</u> and Mei-Yin Chou. <b>First-Principles Studies of Cubic Sb-Doped GeTe for Thermoelectric Applications.</b> Waiting for submission after the first paper is published.
 </li>
 </ul>
 
