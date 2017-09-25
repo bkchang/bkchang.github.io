@@ -1,0 +1,37 @@
+---
+title: "[Photo] IAMS-YCU Autumn Workshop 2017"
+layout: post
+date: 2017-09-25 13:14
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: BKChang
+---
+---
+
+Here are some photos for the IAMS-YCU workshop held on Sep. 8th 2017 at IAMS.
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20170925IAMSYCU/iamsycu2017-groupphoto.jpg">
+	<figcaption class="caption"><h2>Group photo.</h2></figcaption>
+</div>
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20170925IAMSYCU/iamsycu2017-010.jpg">
+	<figcaption class="caption"><h2>Me presenting my poster.</h2></figcaption>
+</div>
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20170925IAMSYCU/iamsycu2017-087.jpg">
+	<figcaption class="caption"><h2>Lovely banquet.</h2></figcaption>
+</div>
