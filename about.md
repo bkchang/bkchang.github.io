@@ -6,7 +6,7 @@ layout: page
 
 <h1>Benjamin K Chang</h1>
 
-<ul>My interests lie in computational studies of nanoscale physical phenomena in matters.</ul>
+<!--<ul>My interests lie in computational studies of nanoscale physical phenomena in matters.</ul>-->
 
 <h2>Current Postion</h2>
 <ul>
