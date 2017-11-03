@@ -1,0 +1,37 @@
+---
+title: "[Photo] 20th Asian Workshop on First-Principles Electronic Structure Calculations"
+layout: post
+date: 2017-11-03 17:21
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: BKChang
+---
+---
+
+Here are some photos for the <a href="https://physics.nju.edu.cn/asian20">20th Asian Workshop on First-Principles Electronic Structure Calculations</a> held on Oct. 31 to Nov. 2, 2017.
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20171103ASIAN20/group.jpg">
+	<figcaption class="caption"><h2>Group photo. We had over 420 participants this year.</h2></figcaption>
+</div>
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20171103ASIAN20/poster1.jpg">
+	<figcaption class="caption"><h2>Me presenting my poster.</h2></figcaption>
+</div>
+
+---
+
+<div>
+	<img class="image" src="/assets/images/20171103ASIAN20/ProfSingh.jpg">
+	<figcaption class="caption"><h2>Me having a chat with <a href="http://faculty.missouri.edu/singhdj/">Professor David Singh </a>.</h2><h4>Professor Singh is one of the authors of the program <a href="https://www.imc.tuwien.ac.at//forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/">BoltzTraP</a> for Boltzmann transport calculations. He kindly explained to me how to make better use of the program, and gave me precious advices on my research on thermoelectric materials.</h4></figcaption>
+</div>
