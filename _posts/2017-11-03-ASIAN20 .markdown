@@ -19,7 +19,7 @@ Here are some photos for the <a href="https://physics.nju.edu.cn/asian20">20th A
 
 <div>
 	<img class="image" src="/assets/images/20171103ASIAN20/group.jpg">
-	<figcaption class="caption"><h2>Group photo. We had over 420 participants this year.</h2></figcaption>
+	<figcaption class="caption"><h2>Group photo. There were over 420 participants this year.</h2></figcaption>
 </div>
 
 ---
