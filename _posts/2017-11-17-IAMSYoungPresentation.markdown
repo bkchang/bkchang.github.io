@@ -1,7 +1,7 @@
 ---
 title: "[Prize Winning] IAMS Young Fellow Research Presentation Contest"
 layout: post
-date: 2017-11-07 17:21
+date: 2017-11-17 17:21
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
