@@ -21,7 +21,7 @@ layout: page
 
 <h2>Interests and Specialties</h2>
 <ul class="skill-list">
-	<li>Solid-State Physics, First-Principles Computations, Machine Learning</li>
+	Solid-State Physics, First-Principles Computations, Machine Learning
 </ul>
 
 <h2>Publications</h2>
