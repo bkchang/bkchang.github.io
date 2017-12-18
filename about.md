@@ -19,9 +19,9 @@ layout: page
 	<li>BS in Interdisciplinary Sciences, National Tsing Hua University (2015)<br>Fields of study: Physics, Materials Engineering, Computer Science <br> Graduate ranking: <b>1</b>/27; GPA: <b>3.94</b>/4.0 (<b>4.03</b>/4.3)</li>
 </ul>
 
-<h2>Interests and Specialties</h2>
+<h2>Skills</h2>
 <ul class="skill-list">
-	Solid-State Physics, First-Principles Computations, Machine Learning
+	First-Principles Computations, Machine Learning
 </ul>
 
 <h2>Publications</h2>
