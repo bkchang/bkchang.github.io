@@ -1,0 +1,18 @@
+---
+title: "Presenting a Poster on Jan 24"
+layout: post
+date: 2018-01-12 17:21
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: BKChang
+---
+---
+
+I will be giving a poster on the <a href="http://tps2018.conf.tw/site/page.aspx?pid=901&sid=1171&lang=en">Annual Meeting of the Physical Society of Taiwan</a>, at National Taiwan University, on January 24. The serial number of my poster is P1-EM-049. Please feel free to stop by!
+
+---
