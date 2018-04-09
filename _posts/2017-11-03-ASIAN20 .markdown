@@ -1,5 +1,5 @@
 ---
-title: "[Photo] 20th Asian Workshop on First-Principles Electronic Structure Calculations"
+title: "20th Asian Workshop on First-Principles Electronic Structure Calculations"
 layout: post
 date: 2017-11-03 17:21
 image: /assets/images/markdown.jpg
