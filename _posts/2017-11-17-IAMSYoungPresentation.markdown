@@ -1,5 +1,5 @@
 ---
-title: "[Prize Winning] IAMS Young Fellow Research Presentation Contest"
+title: "IAMS Young Fellow Research Presentation Contest"
 layout: post
 date: 2017-11-17 17:21
 image: /assets/images/markdown.jpg
