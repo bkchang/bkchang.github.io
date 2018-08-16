@@ -78,7 +78,7 @@ width: large
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-blog: true
+blog: false
 about: false
 
 
